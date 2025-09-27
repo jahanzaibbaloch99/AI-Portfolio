@@ -10,15 +10,15 @@ RAG Pipeline with FAISS → Retrieves accurate info from my personal data.
 
 LangChain / LangGraph → Orchestrates LLM responses.
 
-VPS Deployment (LXC Containers) → Production-ready hosting.
+Dockerized Deployment → Fully containerized backend for portability.
 
-CI/CD with GitHub Actions → Automatic redeploy on new commits.
+CI/CD with GitHub Actions → Build → Test → Deploy automatically.
 
 Semantic Search & Tokenization → Smarter and context-aware replies.
 
 🔹 Tech Stack
 
-Backend: NestJS / Node.js
+Backend: NestJS (Node.js)
 
 Frontend: React.js / Next.js (planned)
 
@@ -26,7 +26,7 @@ AI Layer: LangChain, LangGraph, FAISS
 
 LLM Provider: Gemini API (temporary, switching to OpenAI/Anthropic soon)
 
-DevOps: VPS (LXC Containers), GitHub Actions
+DevOps: Docker, GitHub Actions, Containerization
 
 🔹 Future Improvements
 
@@ -39,3 +39,4 @@ Subtle UI/UX improvements with micro-interactions.
 Analytics to track user interactions with the AI portfolio.
 
 More project integrations to showcase a wider skill set.
+
